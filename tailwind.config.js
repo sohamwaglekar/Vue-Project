@@ -9,8 +9,8 @@ module.exports = {
   },
   plugins: [],
   options: {
-    prefix: '',
+    
     important: true,
-    separator: ':',
+    
   }
 }

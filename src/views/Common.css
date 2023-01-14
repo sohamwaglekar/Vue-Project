@@ -1,0 +1,54 @@
+.navbar-light .navbar-brand {
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    line-height: 14px !important;
+    color: #fff !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    line-height: 14px !important;
+    color: #fff !important;
+}
+
+.text30 {
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-weight: 600;
+}
+.flex{
+    display: flex !important;
+}
+.pt-8{
+    padding-top: 2rem;
+}
+.items-center{
+    align-items: center;
+
+}
+.justify-between{
+    justify-content: space-between;
+}
+.bg-ededed{
+    background-color: #ededed !important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.mt-8 {
+    margin-top: 2rem;
+}
+.w-1-4{
+    width: 15%;
+}
+.w-3-4{
+    width: 85%;
+}
+.w-full{
+    width: 100%;
+}
+.px-12{
+padding-left:3rem;
+padding-right:3rem;
+}
